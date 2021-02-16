@@ -1,16 +1,16 @@
 .container{
   position: relative;
-  max-width: 55%;
+  max-width: 50%;
   margin-left: auto;
   margin-right: auto;
   height: 750px;
   background-color:#24B677;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 
 .title{
-  margin-top: 1%;
-  margin-bottom: 1%;
   padding-top: 5%;
   text-align: center;
   color:white;
@@ -19,8 +19,10 @@
 .fir_title{
   font-size: 6vw;
   font-weight: 600;
+  margin-bottom: 0;
 }
 .sec_title{
+  margin-top: 0;
   font-size: 2.5vw;
   font-weight: 500;
 }
@@ -43,6 +45,7 @@ nav{
   text-align: center;
   padding: 12px;
   background-color: white;
+  height: 5%;
 }
 
 a{
@@ -50,13 +53,13 @@ a{
   padding-right: 50px;
   color: #24B677;
   text-decoration: none;
-  font-weight: 500;
-  font-size: xx-large;
+  font-weight: 700;
+  font-size: 28px;
 }
 
 
 .text_part{
-  margin-top: 22%;
+  margin-top: 26%;
   margin-left: 8%;
   color: white;
 }
